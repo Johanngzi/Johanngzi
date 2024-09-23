@@ -12,19 +12,3 @@ Johanngzi/Johanngzi is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-
-
-🏍️ Nikolaos Bakogiannis
-GIS Developer
-
-I'm a GIS developer, interested in the spatial aspects around me.
-
-🛠️ Tools I use
-👨‍💻 Programming and Markup Languages
-Python R JavaScript CSS HTML Ruby on Rails LaTeX Markdown SQL
-
-🗄️ Databases and Cloud Hosting
-PostgreSQL GitHub Pages MongoDB Notion SQLite
-
-💻 Software and Tools
-Dbeaver Git Jupyter Visual Studio Code Adobe
