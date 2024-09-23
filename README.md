@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Johanngzi, a highly motivated and adaptable Junior Full-Stack Developer with a background in marketing, with strong skills in communication, teamwork, and problem-solving.
 - Skilled in managing time effectively to meet project deadlines while maintaining attention to detail.
 - Analytical and customer-focused, with a passion for learning new technologies and solving challenges in dynamic environments. 
-- 👀 I’m interested mostly in Front-end langauges
+- 👀 I’m interested mostly in Front-end projects
 - 🌱 Recently graduated from Le Wagon intensive Web Development Bootcamp and ready to contribute to innovative development projects and grow in a collaborative setting.
 - 💞️ Experienced in collaborating with cross-functional teams to deliver efficient, user-centered solutions.
 - 📫 I'm reachable through either my email or LinkedIn account which are listed in my profile.
