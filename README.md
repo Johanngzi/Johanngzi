@@ -4,7 +4,7 @@
 - 👀 I’m interested mostly in Front-end langauges
 - 🌱 Recently graduated from Le Wagon intensive Web Development Bootcamp and ready to contribute to innovative development projects and grow in a collaborative setting.
 - 💞️ Experienced in collaborating with cross-functional teams to deliver efficient, user-centered solutions.
-- 📫 I'm reachable through eiter my email or Linked-in account which are listed in my profile. 
+- 📫 I'm reachable through either my email or LinkedIn account which are listed in my profile.
 - 😄 Pronouns: He, him, his
 - ⚡ Fun fact: I have lived in 3 different countries so far, and have learned 4 languages, which makes me a person who can easily adapt to different work environments and cultures.
 <!---
