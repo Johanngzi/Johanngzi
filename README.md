@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @Johanngzi, a highly motivated and adaptable Junior Full-Stack Developer with a background in marketing, with strong skills in communication, teamwork, and problem-solving.
+
+Hi 👋, I'm Johann
+
+A Junior Software Developer living in The Hague, the Netherlands!
+
+- 💪 I’m a highly motivated and adaptable Junior Full-Stack Developer with a background in marketing, with strong skills in communication, teamwork, and problem-solving.
 - Skilled in managing time effectively to meet project deadlines while maintaining attention to detail.
 - Analytical and customer-focused, with a passion for learning new technologies and solving challenges in dynamic environments. 
 - 👀 I’m interested mostly in Front-end projects
@@ -15,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/j-imbett) 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack and tools:
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 # 📊 GitHub Stats:
 
